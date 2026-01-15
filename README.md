@@ -1,54 +1,83 @@
-<div align="center">
+<h1 align="center">
+  Hi 👋, I'm Praveen Kumar Byrisetty
+</h1>
 
-# Hi there, I'm Praveen Kumar Byrisetty! 👋
-### 🛡️ SOC Analyst Fresher | ⚛️ Quantum Computing Enthusiast | ⛓️ Blockchain Developer
+<h3 align="center">
+  🛡️ SOC & Cybersecurity Enthusiast | 🔐 Blue Team Security | ⚛️ Quantum Security (BB84)
+</h3>
 
-
-
-</div>
-
----
-
-### 💻 About Me
-
-I am a **Cybersecurity Student** passionate about securing digital infrastructures and exploring the future of cryptography. My focus lies at the intersection of **Cybersecurity**, **Quantum Computing**, and **Blockchain Technology**.
-
-* 🔭 I’m currently working on **A Quantum-Enabled Federated Learning Architecture for Secure Deep Models**.
-* 🛡️ I’m looking for opportunities as a **SOC Analyst** or **Security Researcher**.
-* 🌱 I’m currently deep-diving into **Linux Internals**, **Wireshark**, and **Qiskit**.
-* ⚡ Fun fact: I build simulations of Quantum Entanglement and the BB84 Protocol in my free time.
-
----
-
-### 🛠 Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  
-  <br />
-  
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-  <br />
-  
-  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Truffle-5E464D?style=for-the-badge&logo=truffle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=SOC+%26+Blue+Team+Foundations;Web+Security+%26+Defensive+Security;Quantum+Cryptography+(BB84);Hands-on+Labs+%26+Security+Projects&center=true&width=640&height=45">
 </p>
 
 ---
 
-### 📂 Top Projects
+## 🛡️ About Me 
 
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **Quantum-Enabled Federated Learning** | Architecture for secure deep models using quantum principles. | `Python` `Qiskit` `AI/ML` |
-| **BB84 Protocol Sim** | Web-based visual simulation of the BB84 quantum key distribution protocol. | `Python` `Quantum` |
-| **Quantum Entanglement Viz** | Interactive visualization of 2-qubit entanglement states. | `Qiskit` `Web` |
+- 🧠 Aspiring **SOC Analyst / Cybersecurity Professional**
+- 🔍 Strong focus on **Blue Team, Monitoring & Defense**
+- 🌐 Knowledge of **Web Security & OWASP Top 10**
+- ⚛️ Experience with **Quantum Cryptography (BB84 QKD)**
+- 🔗 Built **2-Qubit Quantum Entanglement simulations**
+- 🎯 Goal: **Start my career in SOC & grow into advanced security domains**
 
 ---
 
+## 🔐 SOC & Cybersecurity Skills  
 
+### 🛡️ Blue Team / SOC Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,kali,git,github" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge"/>
+</p>
+
+### 🌐 Web & Network Security  
+- OWASP Top 10  
+- Traffic Analysis  
+- Authentication & Session Security  
+- Secure Coding Awareness  
+
+---
+
+## ⚛️ Quantum Security Specialization  
+
+- 🔑 **Quantum Key Distribution – BB84 Protocol**
+- 🔗 **Quantum Entanglement for Secure Communication**
+- 🧠 Interest in **Post-Quantum Cryptography**
+- 📘 Exploring **quantum-safe future security models**
+
+> ⚠️ *Quantum is my advanced specialization, built on a strong SOC foundation.*
+
+---
+
+## 💻 Technical Background  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,flask,php,vmware" />
+</p>
+
+---
+
+## 📂 What This Profile Represents  
+
+- 🛡️ SOC labs & defensive security practice  
+- 🔐 Cybersecurity & monitoring projects  
+- ⚛️ Quantum security simulations  
+- 💻 Secure web & development work  
+
+---
+
+## 🎯 Career Direction  
+
+- 🎓 Entry-Level **SOC Analyst / Cybersecurity Engineer**
+- 🛡️ Blue Team & Defensive Security  
+- 🔐 Long-term: **Quantum-Safe Cyber Defense**
+
+---
+
+<p align="center">
+  🛡️ Defend Today • Secure Tomorrow • Prepare for Quantum ⚛️
+</p>
