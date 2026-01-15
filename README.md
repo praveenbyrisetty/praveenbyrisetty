@@ -30,8 +30,7 @@ I am a ** Cybersecurity Student** passionate about securing digital infrastructu
   <br />
   
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/TryHackMe-C2185B?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
   <br />
   
