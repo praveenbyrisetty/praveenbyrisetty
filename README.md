@@ -3,81 +3,108 @@
 </h1>
 
 <h3 align="center">
-  🛡️ SOC & Cybersecurity Enthusiast | 🔐 Blue Team Security | ⚛️ Quantum Security (BB84)
+  🛡️ Cybersecurity & SOC Enthusiast | ⚛️ Quantum Security | 🔗 Blockchain | 🤖 AI/ML
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=SOC+%26+Blue+Team+Foundations;Web+Security+%26+Defensive+Security;Quantum+Cryptography+(BB84);Hands-on+Labs+%26+Security+Projects&center=true&width=640&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=SOC+%26+Defensive+Security;Cybersecurity+Learner;Quantum+Cryptography+(BB84);Blockchain+%26+Smart+Contracts;Secure+AI+%26+Federated+Learning&center=true&width=680&height=45">
 </p>
 
 ---
 
-## 🛡️ About Me 
+## 👨‍💻 About Me
 
-- 🧠 Aspiring **SOC Analyst / Cybersecurity Professional**
-- 🔍 Strong focus on **Blue Team, Monitoring & Defense**
+I am a **cybersecurity-focused learner** aiming to build a career in **Security Operations (SOC) and Defensive Security**, while actively exploring **future-ready security domains**.
+
+- 🛡️ Strong interest in **SOC, Blue Team & Monitoring**
 - 🌐 Knowledge of **Web Security & OWASP Top 10**
-- ⚛️ Experience with **Quantum Cryptography (BB84 QKD)**
-- 🔗 Built **2-Qubit Quantum Entanglement simulations**
-- 🎯 Goal: **Start my career in SOC & grow into advanced security domains**
+- ⚛️ Hands-on with **Quantum Cryptography (BB84)**
+- 🔗 Learning **Blockchain (Solidity, Truffle)**
+- 🤖 Exploring **AI/ML & Deep Learning for secure systems**
+- 🎯 Goal: **Become a skilled Cybersecurity / SOC professional**
 
 ---
 
-## 🔐 SOC & Cybersecurity Skills  
+## 🔐 Cybersecurity Focus
 
-### 🛡️ Blue Team / SOC Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,git,github" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge"/>
-</p>
-
-### 🌐 Web & Network Security  
-- OWASP Top 10  
-- Traffic Analysis  
-- Authentication & Session Security  
-- Secure Coding Awareness  
+- SOC fundamentals & incident response  
+- Network traffic & attack analysis  
+- Web application security  
+- Defensive security mindset  
 
 ---
 
-## ⚛️ Quantum Security Specialization  
+## ⚛️ Quantum & Advanced Security
 
 - 🔑 **Quantum Key Distribution – BB84 Protocol**
-- 🔗 **Quantum Entanglement for Secure Communication**
-- 🧠 Interest in **Post-Quantum Cryptography**
-- 📘 Exploring **quantum-safe future security models**
-
-> ⚠️ *Quantum is my advanced specialization, built on a strong SOC foundation.*
+- 🔗 **2-Qubit Quantum Entanglement**
+- 🧠 Exploring **Post-Quantum Cryptography**
+- 📘 Research-oriented security thinking
 
 ---
 
-## 💻 Technical Background  
+## 🔗 Blockchain
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,flask,php,vmware" />
+- Blockchain fundamentals  
+- Smart contracts using **Solidity**
+- Development & testing with **Truffle**
+- Interest in **Blockchain Security**
+
+---
+
+## 🤖 AI / ML & Deep Learning
+
+- Machine Learning & Deep Learning fundamentals  
+- Secure AI model thinking  
+- 📌 Working on:  
+  **A Quantum-Enabled Federated Learning Architecture for Secure Deep Models**
+
+---
+
+## 🛠️ Technical Skills
+
+**Security & Tools**  
+Linux, Kali Linux, Wireshark, Burp Suite, Nmap, Git, GitHub  
+
+**Programming & Development**  
+Python, JavaScript, HTML, CSS, Bootstrap, Flask, PHP  
+
+**Advanced Domains**  
+Quantum Computing, Blockchain, AI/ML, Deep Learning  
+
+---
+
+## 🚀 Featured Projects
+
+- 🔐 **BB84 Quantum Key Distribution Simulation**  
+- 🔗 **2-Qubit Entanglement Simulation**  
+- 🤖 **Quantum-Enabled Federated Learning (Ongoing)**  
+- 🌐 **Web Security Practice Projects**
+
+---
+
+## 📚 Currently Learning
+
+- SOC workflows & incident handling  
+- Network & log analysis  
+- Blockchain security  
+- Secure AI & quantum-safe systems  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
-
----
-
-## 📂 What This Profile Represents  
-
-- 🛡️ SOC labs & defensive security practice  
-- 🔐 Cybersecurity & monitoring projects  
-- ⚛️ Quantum security simulations  
-- 💻 Secure web & development work  
-
----
-
-## 🎯 Career Direction  
-
-- 🎓 Entry-Level **SOC Analyst / Cybersecurity Engineer**
-- 🛡️ Blue Team & Defensive Security  
-- 🔐 Long-term: **Quantum-Safe Cyber Defense**
 
 ---
 
 <p align="center">
-  🛡️ Defend Today • Secure Tomorrow • Prepare for Quantum ⚛️
+  🛡️ Defend Today • Secure Tomorrow • Prepare for the Future ⚛️
 </p>
