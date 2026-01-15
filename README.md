@@ -47,7 +47,6 @@ I am a ** Cybersecurity Student** passionate about securing digital infrastructu
 | Project | Description | Tech |
 | :--- | :--- | :--- |
 | **Quantum-Enabled Federated Learning** | Architecture for secure deep models using quantum principles. | `Python` `Qiskit` `AI/ML` |
-| **ElimuChain** | A blockchain prototype for issuing and verifying academic certificates. | `Solidity` `Truffle` `JS` |
 | **BB84 Protocol Sim** | Web-based visual simulation of the BB84 quantum key distribution protocol. | `Python` `Quantum` |
 | **Quantum Entanglement Viz** | Interactive visualization of 2-qubit entanglement states. | `Qiskit` `Web` |
 
