@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Naceen! 👋
+# Hi there, I'm Praveen Kumar Byrisetty! 👋
 ### 🛡️ SOC Analyst Fresher | ⚛️ Quantum Computing Enthusiast | ⛓️ Blockchain Developer
 
 [![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME_HERE&color=blueviolet)](https://github.com/YOUR_USERNAME_HERE)
