@@ -11,7 +11,7 @@
 
 ### 💻 About Me
 
-I am a **3rd Year Computer Science Student** passionate about securing digital infrastructures and exploring the future of cryptography. My focus lies at the intersection of **Cybersecurity**, **Quantum Computing**, and **Blockchain Technology**.
+I am a ** Cybersecurity Student** passionate about securing digital infrastructures and exploring the future of cryptography. My focus lies at the intersection of **Cybersecurity**, **Quantum Computing**, and **Blockchain Technology**.
 
 * 🔭 I’m currently working on **A Quantum-Enabled Federated Learning Architecture for Secure Deep Models**.
 * 🛡️ I’m looking for opportunities as a **SOC Analyst** or **Security Researcher**.
