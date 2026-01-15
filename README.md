@@ -3,7 +3,7 @@
 # Hi there, I'm Praveen Kumar Byrisetty! 👋
 ### 🛡️ SOC Analyst Fresher | ⚛️ Quantum Computing Enthusiast | ⛓️ Blockchain Developer
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME_HERE&color=blueviolet)](https://github.com/YOUR_USERNAME_HERE)
+
 
 </div>
 
@@ -53,12 +53,4 @@ I am a ** Cybersecurity Student** passionate about securing digital infrastructu
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
